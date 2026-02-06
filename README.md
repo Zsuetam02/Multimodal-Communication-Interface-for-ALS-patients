@@ -136,3 +136,11 @@ Department of Medical Informatics and Artificial Intelligence
 ## License
 
 This project is provided for academic and research purposes.
+
+---
+
+## Trained networks accessibility 
+
+For anyone interested, please contact me on mat.sk@op.pl to receive trained models
+
+
