@@ -141,6 +141,7 @@ This project is provided for academic and research purposes.
 
 ## Trained networks accessibility 
 
-For anyone interested, please contact me on mat.sk@op.pl to receive trained models
+For anyone interested, please contact me on mat.sk@op.pl to receive trained models, as well as detailed results contained in my thesis
+
 
 
