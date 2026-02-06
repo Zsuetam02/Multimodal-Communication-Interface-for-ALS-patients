@@ -72,7 +72,7 @@ This project implements a **multimodal human–computer interface** that:
   - Time-aligned EOG signals and image sequences
   - Balanced class distribution
 
-> ⚠️ Dataset is not publicly available due to ethical and consent constraints.
+> Dataset is not publicly available due to ethical and consent constraints.
 
 ---
 
